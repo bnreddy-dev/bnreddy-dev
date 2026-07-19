@@ -18,18 +18,22 @@ I build responsive web applications, interactive visual simulators, automation s
 
 ---
 
-### 🚀 Highlight Projects (Private)
+### 🚀 Highlight Projects
 
-Here is a case study of my main private enterprise project showing my engineering capabilities:
+Here are case studies of my major projects showing my frontend, backend, and integration capabilities:
 
-#### ⚡ EE Study Hub
+#### ✨ [VYAVA](https://vyavaeventsofficial.web.app) (Private)
+A premium, cinematic event management platform built for booking and organizing luxury weddings, birthdays, anniversaries, and corporate galas.
+*   **Cinematic UI & Aesthetics:** Engineered a custom responsive design with a filmic grain overlay, high-fidelity typography (Playfair Display & Inter), and an elegant dark theme to match the brand's luxury identity.
+*   **Modern Frontend Stack:** Built as a high-performance Single Page Application (SPA) using **React** and modern CSS architectures.
+*   **Serverless Hosting:** Deployed and optimized for fast page load times using **Firebase Hosting** (Live site: [vyavaeventsofficial.web.app](https://vyavaeventsofficial.web.app)).
+
+#### ⚡ [EE Study Hub](https://electrical-engineering-studies.web.app) (Private)
 A full-scale, serverless interactive learning portal built for Electrical Engineering aspirants.
-*   **Aesthetics & UX:** Built a premium dark/obsidian theme dashboard, featuring responsive layouts and a custom sidebar interface.
-*   **Interactive Simulations:** Engineered custom visual canvas simulators (e.g. Transformers, Synchronous Machines, RMF, and Power Electronics) to help students interact with complex mathematical models.
-*   **AI Integration:** Built a client-side study bot that rotates across an 11-key Gemini API pool to bypass rate limits and provide instant solutions to subject queries.
+*   **Interactive Simulations:** Engineered custom visual canvas simulators (e.g. Transformers, RMF, and Power Electronics) to help students interact with complex engineering models.
+*   **AI Integration:** Built a client-side study bot that rotates across an 11-key Gemini API pool to provide instant solutions to subject queries.
 *   **Cloud Architecture:** Implemented Firebase Hosting, Authentication, Realtime Database, and Cloud Functions to process Razorpay subscription webhook payments safely.
-*   **Automation:** Built a background pipeline using **GitHub Actions** that automatically schedules and sends daily push notifications to student devices in the cloud.
-
+*   **Automation:** Built a background pipeline using **GitHub Actions** that automatically schedules and sends daily push notifications to student devices in the cloud (Live site: [electrical-engineering-studies.web.app](https://electrical-engineering-studies.web.app)).
 ---
 
 ### 📊 GitHub Stats
