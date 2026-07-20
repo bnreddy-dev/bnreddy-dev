@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=59,130,246,99,102,241,139,92,246&height=180&section=header&text=Nageswar%20Reddy%20Baisani&fontSize=40&fontColor=ffffff&fontAlign=center&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6c,100:3b82f6&height=180&section=header&text=Nageswar%20Reddy%20Baisani&fontSize=40&fontColor=ffffff&fontAlign=center&fontAlignY=40" width="100%" />
 </p>
 
 <p align="center">
@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Electrical%20Engineering-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-India-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/B.Tech-Electrical%20Engineering-3b82f6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-1d4ed8?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-10b981?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://electrical-engineering-studies.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EE_Study_Hub-6366F1?style=for-the-badge&logo=firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_EE_Study_Hub-3b82f6?style=for-the-badge&logo=firebase&logoColor=white" />
   </a>
   <a href="https://vyavaeventsofficial.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_VYAVA_Events-1d4ed8?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
 
@@ -120,14 +120,42 @@ A full-scale serverless learning portal with interactive physics simulators, AI 
 
 ## 🎯 Current Focus
 
-```yaml
-Learning:
-  - Custom WebGL Shaders & Advanced Canvas Particle Systems
-  - LangChain / AutoGen for Multi-Agent Orchestration
-Building:
-  - Scalable WebGL landing pages & responsive learning portals
-Exploring:
-  - Local LLM inference & edge vector store structures
-OpenTo:
-  - Interactive WebGL / React Frontend Consulting
-  - AI Application Engineering Contracts
+> 🧠 **Learning:** Custom WebGL Shaders & Advanced Canvas Particle Systems, LangChain / AutoGen for Multi-Agent Orchestration.
+> 
+> 🔨 **Building:** Scalable WebGL landing pages & responsive learning portals.
+> 
+> 🔭 **Exploring:** Local LLM inference & edge vector store structures.
+> 
+> 💼 **Open To:** Interactive WebGL / React Frontend Consulting, AI Application Engineering Contracts.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:baisaninageswarreddy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/eestudyplace_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-EE_Study_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nageshwarreddy_99/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/bnreddy-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/bnreddy-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplifying complexity through clean UI design, robust serverless backends, and creative motion."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6c,100:3b82f6&height=120&section=footer" width="100%" />
+</p>
