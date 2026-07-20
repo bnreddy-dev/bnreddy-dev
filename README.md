@@ -25,6 +25,12 @@
   <a href="https://vyavaeventsofficial.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
+  <a href="https://t.me/eestudyplace_bot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-EE_Study_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nageshwarreddy_99/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/bnreddy-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -133,18 +139,10 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 
 ---
 
-## 📈 GitHub Contribution Activity (Green Dots)
+## 📈 GitHub Contribution Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/2ea44f/bnreddy-dev" width="100%" alt="bnreddy-dev's Green Dots Contribution Chart" />
-</p>
-
----
-
-## 🐍 Contribution Snake Grid Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/svg/github-user-contribution-grid-snake.svg" width="100%" alt="Snake Grid Animation" />
 </p>
 
 ---
