@@ -139,11 +139,12 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 🐍 Contribution Snake Grid Animation
 
 <p align="center">
-  <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Grid Animation" />
+  <img src="github-contribution-grid-snake.svg" width="100%" alt="Snake Grid Contribution Animation" />
 </p>
+
 ---
 
 ## 🎯 Current Focus
