@@ -19,6 +19,9 @@
   <a href="https://vyavaeventsofficial.web.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_VYAVA_Events-1d4ed8?style=for-the-badge&logo=react&logoColor=white" />
   </a>
+  <a href="https://bnreddy-dev.github.io/yugala" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Yugala_Studio-8B5CF6?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,7 +46,7 @@
 I build **high-performance serverless systems** and **creative 3D web experiences** powered by AI. My work sits at the intersection of engineering rigor and visual craft — from LLM-orchestrated backends to WebGL particle systems that tell a story.
 
 - **AI/ML:** Client-side LLM integrations, API key rotation pools, automated generative pipelines.
-- **Frontend:** React, Three.js, GSAP, Framer Motion — immersive, scroll-driven experiences.
+- **Frontend:** React, Three.js, React Three Fiber, GSAP, Framer Motion — immersive, scroll-driven experiences.
 - **Backend:** Firebase serverless, Node.js, webhook automation, payment integrations.
 - **DevOps:** GitHub Actions, CI/CD, cloud deployment pipelines.
 
@@ -56,6 +59,7 @@ I build **high-performance serverless systems** and **creative 3D web experience
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
@@ -68,7 +72,18 @@ I build **high-performance serverless systems** and **creative 3D web experience
 
 ## 🚀 Featured Projects
 
-> 🔒 *Production projects (VYAVA, EE Study Hub) are private due to API keys, payment webhooks, and client data. The descriptions below demonstrate the underlying architecture, creative patterns, and serverless pipelines implemented.*
+> 🔒 *Production client architectures and proprietary pipelines are highlighted below to showcase underlying design patterns, WebGL systems, and serverless engineering.*
+
+### [Yugala — 3D Comic Art Studio](https://bnreddy-dev.github.io/yugala)
+**React 18 · React Three Fiber · Three.js · Framer Motion · Tailwind CSS**
+
+An immersive, scroll-interactive 3D web experience showcasing visual storytelling and comic art with dynamic camera spline paths.
+
+- 🌌 Interactive 3D WebGL background driven by scroll progression using React Three Fiber & `@react-three/drei`.
+- 🎭 Cinematic layout choreography and physics-based fluid transitions via Framer Motion.
+- 🚀 Automated CI/CD build and continuous deployment pipeline via GitHub Actions to GitHub Pages.
+
+---
 
 ### [VYAVA — Luxury Event Platform](https://vyavaeventsofficial.web.app)
 **React 19 · Three.js · GSAP · Firebase**
@@ -94,15 +109,15 @@ A full-scale serverless learning portal with interactive physics simulators, AI 
 
 ## 📊 GitHub Activity
 
-> 🚧 Building in public — public demo repos coming soon.  
-> Production projects (VYAVA, EE Study Hub) remain private for security.
+> 🚧 Building in public — public demo repos & projects featured above.
 
 **Recent Focus:**
 - 🔧 Architecting serverless AI pipelines with Gemini API rotation.
-- 🎨 Building WebGL particle systems with Three.js & React Three Fiber.
+- 🎨 Building WebGL particle systems & camera splines with Three.js & React Three Fiber.
 - ⚡ Automating study nudges via GitHub Actions & Firebase Cloud Messaging.
 
 **Contribution Goals:**
+- [x] Yugala 3D interactive studio experience.
 - [ ] Open-source Gemini key rotation manager.
 - [ ] Public VYAVA landing clone (sanitized).
 - [ ] Interactive EE simulators repo.
